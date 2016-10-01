@@ -5,7 +5,7 @@ All source code of course React/Redux by real world example on [Codeaholicguy Bl
 
 [See more](https://codeaholicguy.com/category/react/)
 
-Lession
+Lessons
 -------
 
 1. [Setup Project](https://codeaholicguy.com/2016/06/28/hoc-reactredux-qua-vi-du-thuc-te-khoi-tao-project/)
