@@ -26,7 +26,7 @@ export default class TrackList extends Component {
   }
 
   render() {
-    const {tracks: {activeTrack, tracks}} = this.props;
+    const {clientId, tracks: {activeTrack, tracks}} = this.props;
 
     return (
       <div>
